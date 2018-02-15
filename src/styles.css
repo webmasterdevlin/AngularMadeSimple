@@ -1,1 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
+h1 {
+  color: #336699;
+  font-family: arial, Helvetica, sans-serif;
+  font-size: 250%;
+}
+h2, h3 {
+  color: #444444;
+  font-family: arial, Helvetica, sans-serif;
+  font-weight: lighter;
+}
+body, input[text], button {
+  color: #888888;
+  font-family: Cambria, Georgia;
+}
+* {
+  font-family: arial, Helvetica, sans-serif;
+}
